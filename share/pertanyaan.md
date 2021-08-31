@@ -36,7 +36,7 @@
   <note = "klo klo emg mereka malu nanya ke kita dan masih bener bener gk sadar boleh pake google, kasih sedikit nudge bahwa boleh kok google">
 
 
-<!-- soal: 12/10 -->
+<!-- soal: 11/10 -->
 
 <final-note = "beberapa pertanyaan gk punya penjelasan, tpi nanti kita bakal bandingin yang mereka jawab dengan apa yg mereka lakukan, disitu ada 6a 6b klo di a bisa di jawab mungkin kita bisa ke 6b tpi klo 6a gk bisa lewat ke nomer 7">
 ```
